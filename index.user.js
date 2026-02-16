@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name          TDDChatGame (User Edition)
+// @name          TDD Chat Meow (User Edition)
 // @namespace     http://tampermonkey.net/
-// @version       4.3
-// @description   เพิ่มปุ่มซ่อน/แสดง Sidebar
+// @version       1.0
+// @description   ใช้สำหรับ TDD เท่านั้น
 // @author        MObyEX
 // @match         https://www.torrentdd.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=torrentdd.com
